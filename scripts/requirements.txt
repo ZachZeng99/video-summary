@@ -1,0 +1,3 @@
+yt-dlp>=2023.12.30
+bilibili-api-python>=16.2.0
+requests>=2.31.0
